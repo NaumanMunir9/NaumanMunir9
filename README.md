@@ -27,7 +27,7 @@ A connoisseur of Kubernetes, I intricately comprehend the inner workings of core
 In an ever-evolving landscape, I've cultivated a growth-driven mindset, perpetually adapting to industry trends and embracing novel insights. Collaboration, knowledge-sharing, and catalyzing innovation form the heart of my journey. Let's converge our paths in the DevOps and cloud community, sharing a fervor for technology and innovation.
 
 📫 **Reach Out:**
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/naumanmunir/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/nauman-munir/)
 - Explore my [YouTube Channel](https://www.youtube.com/@NaumanMunir9)
 
 The future beckons with possibilities, and I'm excited to connect and engage with fellow professionals who share my enthusiasm for technological advancement!
