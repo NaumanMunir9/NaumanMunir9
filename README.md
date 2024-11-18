@@ -6,9 +6,9 @@ I am a **Senior DevOps and Cloud Consultant** with over 4 years of experience in
 
 ## 🛠️ My Expertise
 
-- **AWS Solutions Architect Professional** certified
+- **AWS Certified Solutions Architect - Professional**
+- **Certified Kubernetes Administrator (CKA)**
 - Multi-cloud deployments: **AWS**, **GCP**, **Azure**
-- **Certified Kubernetes Administrator (CKA)** (In progress)
 - DevOps strategies and CI/CD pipelines
 - Infrastructure automation: **Terraform**, **AWS Control Tower**, **Account Factory for Terraform**
 - Microservices architecture and scaling with **Kubernetes**
@@ -49,9 +49,9 @@ I am a **Senior DevOps and Cloud Consultant** with over 4 years of experience in
 
 ## 📚 Certifications
 
-- **AWS Certified Solutions Architect – Professional**
-- **AWS Certified Developer – Associate**
-- **Certified Kubernetes Administrator (CKA)** (In Progress)
+- **2024 - Certified Kubernetes Administrator (CKA)**
+- **2023 - AWS Certified Solutions Architect – Professional**
+- **2022 - AWS Certified Developer – Associate**
 
 ---
 
