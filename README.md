@@ -1,6 +1,6 @@
 # Hi there, I'm Nauman 👋
 
-I am a **Senior DevOps and Cloud Consultant** with over 4 years of experience in architecting and implementing scalable, multi-cloud solutions. My work focuses on optimizing infrastructure for machine learning (LLM models), multi-cloud deployments, and automating workflows with Terraform and Kubernetes. I lead teams in delivering seamless, production-ready cloud architectures.
+I am a **Senior DevOps and Cloud Consultant** with over 5 years of experience in architecting and implementing scalable, multi-cloud solutions. My work focuses on optimizing infrastructure for machine learning (LLM models), multi-cloud deployments, and automating workflows with Terraform and Kubernetes. I lead teams in delivering seamless, production-ready cloud architectures.
 
 ---
 
