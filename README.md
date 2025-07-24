@@ -30,7 +30,7 @@ My technical toolkit is comprehensive, enabling me to tackle diverse and complex
 * **CI/CD & Automation:** Jenkins, GitHub Actions, AWS CodePipeline/CodeBuild
 * **Monitoring & Observability:** Grafana, Prometheus, Sentry, CloudWatch, ELK/EFK Stack
 * **Databases:** MySQL, PostgreSQL, Redis
-* **Programming/Scripting:** PHP (Laravel), Python, Bash
+* **Programming/Scripting:** Python, Bash
 * **Security & Compliance:** SOC2 Compliance, IDS/IPS, WAF, S3 Access Controls
 * **MLOps & LLM:** Model Quantization (8-bit, 16-bit), LLM Integration & Optimization
 
