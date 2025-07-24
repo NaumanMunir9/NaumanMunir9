@@ -1,79 +1,101 @@
-# Hi there, I'm Nauman 👋
-
-I am a **Senior DevOps and Cloud Consultant** with over 5 years of experience in architecting and implementing scalable, multi-cloud solutions. My work focuses on optimizing infrastructure for machine learning (LLM models), multi-cloud deployments, and automating workflows with Terraform and Kubernetes. I lead teams in delivering seamless, production-ready cloud architectures.
-
----
-
-## 🛠️ My Expertise
-
-- **AWS Certified Solutions Architect - Professional**
-- **Certified Kubernetes Administrator (CKA)**
-- Multi-cloud deployments: **AWS**, **GCP**, **Azure**
-- DevOps strategies and CI/CD pipelines
-- Infrastructure automation: **Terraform**, **AWS Control Tower**, **Account Factory for Terraform**
-- Microservices architecture and scaling with **Kubernetes**
-- **MLOps** strategy implementation and model deployment
-- Real-time data analytics using **Amazon Kinesis**, **AWS Lambda**
-- Event-driven systems and workload optimization
+<div align="center">
+  <img src="https://placehold.co/150x150/000000/FFFFFF?text=NM" alt="Nauman Munir Logo/Avatar" style="border-radius: 50%; width: 150px; height: 150px;"/>
+  <h1>Hi there, I'm Nauman Munir! 👋</h1>
+  <p><strong>Senior DevOps & Cloud Consultant | Architecting Scalable, Secure, and Automated Cloud Solutions</strong></p>
+  <p>
+    <a href="https://github.com/NaumanMunir9"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/nauman-munir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.youtube.com/@naumanmunir9"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+    <a href="mailto:naumanmunir9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
 ---
 
-## 🔧 Notable Projects
+### 🚀 About Me
 
-### 🚀 Multi-Account AWS Architecture for LLM Deployment
+I am a highly accomplished and results-driven Senior DevOps and Cloud Consultant with over 6 years of hands-on experience in architecting, implementing, and optimizing mission-critical cloud infrastructure. My expertise spans across the leading cloud providers: **AWS, Google Cloud Platform (GCP), and Azure**.
 
-- Spearheaded the design and implementation of a **robust multi-account AWS architecture**, facilitating secure and scalable infrastructure for deploying LLM models.
-- Led a team of developers and junior DevOps engineers in the successful execution of **Terraform IaC** to automate the deployment and management of AWS resources, streamlining development workflows and reducing time-to-market.
-- Developed **MLOps strategies** for seamless integration and operation of LLM models, solving real-world business challenges.
-- Implemented **LLM model quantization techniques**, optimizing resource utilization and improving inference speed across platforms, including **8-bit** and **16-bit** quantization.
-- **Containerized LLM models**, leveraging **AWS ECS**, **AWS Cloudfront**, **AWS API Gateway** for efficient deployment and orchestration, enhancing scalability and performance in production environments.
-
-### 🔄 Migration and Cloud Optimization Projects
-
-- **Migrated resources** from Dev and Prod AWS accounts to **GCP** using Terraform, ensuring a smooth transition and optimizing infrastructure costs.
-- Implemented a robust **BDR strategy** (Backup and Disaster Recovery) with automated backups and recovery procedures.
-- Integrated **GitHub Actions** for automated CI/CD pipelines for both Dev and Prod environments.
-- Managed **bare-metal Kubernetes cluster migration** to **GKE**, overseeing the entire process and troubleshooting issues to ensure long-term success.
-- Established comprehensive **monitoring, logging, and alerting systems** using Grafana and Prometheus for proactive troubleshooting and monitoring.
-
-### 🛠 Orchestration and Infrastructure Automation
-
-- **Orchestrated automated infrastructure provisioning** using Terraform, AWS CodePipeline, and AWS CodeBuild, improving deployment accuracy and operational efficiency.
-- Architected and deployed a **microservices-based application** on Kubernetes using ArgoCD, enhancing scalability and reliability.
-- Created multiple **EKS clusters** and related infrastructure using command-line tools and Terraform.
-- Designed and architected the **AWS infrastructure** for a microservices-based application, including networking, storage, and compute.
-- **Pitched ideas** to team leads and upper management, proposing improvements to the AWS infrastructure.
-- Built **GitHub Action workflow pipelines** for microservices-based applications, enabling seamless CI/CD integration.
+My passion lies in transforming complex operational challenges into streamlined, automated, and highly resilient systems. I thrive on enhancing operational efficiency, ensuring robust scalability, and implementing stringent security measures (including SOC2 compliance) to foster innovation and drive business success. I'm a strategic leader dedicated to building the future of cloud infrastructure.
 
 ---
 
-## 📚 Certifications
+### 🛠️ Core Expertise & Technologies
 
-- **2024 - Certified Kubernetes Administrator (CKA)**
-- **2023 - AWS Certified Solutions Architect – Professional**
-- **2022 - AWS Certified Developer – Associate**
+My technical toolkit is comprehensive, enabling me to tackle diverse and complex cloud challenges:
 
----
-
-## 🎥 YouTube Content
-
-I create content to explain cloud architecture, DevOps solutions, and Kubernetes practices. Check out my [Cloud Architecture Walkthroughs](https://www.youtube.com/playlist?list=PLU20DxcqUgjZaxBb4eTTqh6gM56iXg_0x) playlist:
-
-1. [Publisher/Subscriber Model in AWS Explained – Photo Studio Application Architecture](https://www.youtube.com/watch?v=hgowP8Fb76M)
-2. [AWS CloudFront The Global Content Distribution Network Architecture](https://www.youtube.com/watch?v=luValYiVlms)
-
----
-
-## 🌐 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/nauman-munir/)
-- [YouTube](https://www.youtube.com/@NaumanMunir9)
-- [Email](mailto:naumanmunir9@gmail.com)
+* **Cloud Platforms:** AWS (EC2, RDS, ASG, ELB, VPC, EFS, S3, Lambda, SQS, CloudWatch, WAF, etc.), GCP (Dataproc, BigQuery, BigTable, Cloud Composer, Cloud Run, GKE, Filestore, Load Balancers, Networking), Azure (AKS)
+* **Containerization & Orchestration:** Kubernetes (EKS, GKE, AKS), Docker, ArgoCD (GitOps)
+* **Infrastructure as Code (IaC):** Terraform, Atlantis
+* **CI/CD & Automation:** Jenkins, GitHub Actions, AWS CodePipeline/CodeBuild
+* **Monitoring & Observability:** Grafana, Prometheus, Sentry, CloudWatch, ELK/EFK Stack
+* **Databases:** MySQL, PostgreSQL, Redis
+* **Programming/Scripting:** PHP (Laravel), Python, Bash
+* **Security & Compliance:** SOC2 Compliance, IDS/IPS, WAF, S3 Access Controls
+* **MLOps & LLM:** Model Quantization (8-bit, 16-bit), LLM Integration & Optimization
 
 ---
 
-## 💬 Availability
+### ✨ What I Do Best (Key Areas of Impact)
 
-I am open to remote freelance/consulting opportunities. Feel free to reach out if you'd like to discuss a project!
+My work focuses on delivering high-impact solutions across several critical domains:
+
+#### ☁️ Cloud Architecture & Migration
+* **Designing and executing secure, scalable multi-account AWS/GCP/Azure architectures** that significantly enhance deployment efficiency and operational resilience.
+* **Leading extensive Dev/Prod resource migrations** from AWS to GCP using Terraform, ensuring seamless transition and operational continuity.
+* **Architecting and deploying robust multi-account AWS infrastructure** specifically tailored for secure and scalable LLM model deployment.
+
+#### 🐳 Kubernetes & Containerization
+* **Designing and deploying scalable microservices application architectures** on Azure Kubernetes Service (AKS), including SSL management with `cert-manager` and achieving SOC2 compliance.
+* **Creating and managing multiple EKS/GKE/AKS clusters** and related infrastructure using CLI and Terraform.
+* **Architecting and deploying microservices-based applications on Kubernetes**, leveraging ArgoCD for GitOps where applicable.
+* **Designing and implementing comprehensive Kubernetes monitoring frameworks** with Grafana and Prometheus across platforms.
+
+#### ⚙️ CI/CD & Automation
+* **Directing teams in implementing production-grade Terraform modules** (base and implementation) for diverse AWS/Azure/GCP services.
+* **Establishing automated CI/CD pipelines** with GitHub Actions and AWS CodePipeline/CodeBuild for Dev/Prod environments, drastically improving deployment frequency and reliability.
+* **Managing and improving weekly blue-green deployments** for zero-downtime releases.
+
+#### 🧠 MLOps & Large Language Models (LLM)
+* **Implementing cutting-edge MLOps strategies for LLM integration**, including model quantization (8-bit, 16-bit) and containerization, to optimize resource utilization and inference speed.
+
+#### 📊 Data Engineering & Platform Setup
+* **Successfully managing data engineering workload migrations to Databricks on GCP**, encompassing project setup, API enablement, subnet creation, Databricks workspace/cluster/Unity Catalog configuration, storage mounts, and cross-project data access points using Terraform and Atlantis.
+
+#### ✅ Operational Excellence & Security
+* **Implementing robust Business Continuity and Disaster Recovery (BDR) strategies** with automated backups and disaster recovery procedures.
+* **Establishing comprehensive monitoring, logging, and alerting systems** for proactive issue resolution and ensuring high availability.
+* **Continuously hardening cloud environments**, integrating IDS/IPS solutions, refining WAF rules, and auditing S3 access controls for enhanced security.
+* **Actively seeking and implementing cost-saving measures** across cloud services.
 
 ---
+
+### 🏆 Certifications
+
+My commitment to continuous learning and industry best practices is validated by these key certifications:
+
+* **CKA: Certified Kubernetes Administrator** (2024)
+* **AWS Certified Solutions Architect – Professional** (2023)
+* **AWS Certified Developer – Associate** (2022)
+
+---
+
+### 📚 Education
+
+* **BS (Joint) Honors in Accounting and Finance** | Institute of Business Management (IoBM), Pakistan | 2019
+
+---
+
+### 🌐 Connect with Me
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or sharing insights on DevOps and Cloud technologies. Feel free to reach out!
+
+* **Email:** naumanmunir9@gmail.com
+* **LinkedIn:** [linkedin.com/in/nauman-munir/](https://www.linkedin.com/in/nauman-munir/)
+* **GitHub:** [github.com/NaumanMunir9](https://github.com/NaumanMunir9)
+* **YouTube:** [youtube.com/@naumanmunir9](https://www.youtube.com/@naumanmunir9)
+* **Phone:** +92 333 2564330 (Karachi, Pakistan)
+
+---
+
+⭐️ From [NaumanMunir9](https://github.com/NaumanMunir9)
