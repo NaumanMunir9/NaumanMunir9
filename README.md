@@ -94,7 +94,6 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 * **LinkedIn:** [linkedin.com/in/nauman-munir/](https://www.linkedin.com/in/nauman-munir/)
 * **GitHub:** [github.com/NaumanMunir9](https://github.com/NaumanMunir9)
 * **YouTube:** [youtube.com/@naumanmunir9](https://www.youtube.com/@naumanmunir9)
-* **Phone:** +92 333 2564330 (Karachi, Pakistan)
 
 ---
 
